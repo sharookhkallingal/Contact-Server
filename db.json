@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Mother",
+      "company": "Nil",
+      "email": "mother@gmail.com",
+      "title": "House Wife",
+      "mobile": "9876546787",
+      "photo": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-lettering-mom-with-crown-icon-cartoon-style-png-image_1917245.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Father",
+      "company": "Bussiness",
+      "email": "father@gmail.com",
+      "title": "Bussinessman",
+      "mobile": "8880009991",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv30cM3QDbvbkqd_6BJjGFPOWjqs7UEgncBw&s",
+      "groupId": "3"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Akshay",
+      "company": "ABC Company",
+      "email": "akshay@gmail.com",
+      "title": "Mechanical Engineer",
+      "mobile": "9876546787",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "0e2a",
+      "name": "Amal",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpoQaaw13BKAmYv1iRPzkz9AkM0ZskCqK_g&s",
+      "mobile": "89897889332",
+      "email": "amal@gmail.com",
+      "company": "Infosys Technologies",
+      "title": "Software Engineer",
+      "groupId": "2"
+    },
+    {
+      "id": "d91a",
+      "name": "Anupama",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9vgo4SfDvV_OMPvytWobG4Z5yfiM8ENsJVw&s",
+      "mobile": "8934671290",
+      "email": "anu@gmail.com",
+      "company": "Google",
+      "title": "Manager",
+      "groupId": "2"
+    },
+    {
+      "id": "b325",
+      "name": "Demo",
+      "photo": "https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331579_640.png",
+      "mobile": "897654309",
+      "email": "demo@gmail.com",
+      "company": "Demo",
+      "title": "Demo",
+      "groupId": "4"
+    },
+    {
+      "id": "ee89",
+      "name": "Haritha",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "98765432311000",
+      "email": "haritha@gmail.com",
+      "company": "State Official",
+      "title": "Collector",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
